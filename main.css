@@ -13,10 +13,20 @@ div {
   background-color: red;
 }
 #orange {
-   background-color: 
+   background-color: orange;
 }
-#yellow
-#green
-#blue
-#indigo
-#violet
+#yellow{
+   background-color: yellow;
+}
+#green{
+   background-color: green;
+}
+#blue{
+   background-color: blue;
+}
+#indigo {
+   background-color: indigo;
+}
+#violet{
+   background-color: violet;
+}
